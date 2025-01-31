@@ -34,7 +34,8 @@
   },
   "peerDependencies": {
     "react": "^16.8.6 || ^17 || ^18",
-    "react-native": ">=0.60"
+    "react-native": ">=0.60",
+    "react-native-svg": "^15.8.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
@@ -46,6 +47,5 @@
     "dist"
   ],
   "dependencies": {
-    "react-native-svg": "^15.11.1"
   }
 }
